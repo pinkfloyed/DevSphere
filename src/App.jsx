@@ -1,5 +1,4 @@
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
-
 import Navbar from './components/Navbar';
 import About from './pages/About';
 import AiChat from './pages/AiChat';
@@ -28,8 +27,7 @@ function App() {
         <Route path="/register" element={<Register />} />
         <Route path="/settings" element={<Settings />} />
       </Routes>
-    </Router>
-    
+    </Router>  
   );
 }
 
