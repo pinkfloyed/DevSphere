@@ -148,12 +148,12 @@ Huge thanks to the following platforms and APIs that made this project possible:
 ---
 
 
-🛡️ License
+## 🛡️ License
 This project is for educational and demo purposes only.
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 Pinki Akter
 📧 Email: pinki@example.com
 🔗 GitHub: https://github.com/pinkfloyed
