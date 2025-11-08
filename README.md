@@ -112,6 +112,72 @@ Visit http://localhost:5173
 
 ---
 
+# 💻 Screenshots
+
+**Figure 1 : Home page**
+
+<img width="1365" height="608" alt="home1" src="https://github.com/user-attachments/assets/dcbde5ed-4702-4224-a503-bafb26aaa54b" />
+
+
+**Figure 2 : Dashboard Displays Project Overview**
+
+<img width="1362" height="608" alt="home2" src="https://github.com/user-attachments/assets/5ede394c-af5e-4491-ae60-361907b24d79" />
+
+
+**Figure 3 : Explore Features**
+
+<img width="1365" height="614" alt="home3" src="https://github.com/user-attachments/assets/d632a964-b710-4798-8438-5b8ddb0445bb" />
+
+
+**Figure 4 : About Page**
+
+<img width="1365" height="534" alt="about" src="https://github.com/user-attachments/assets/51db4bc9-ab8f-44d1-99e2-7fe7510a5614" />
+
+**Figure 5 : Registration Page**
+
+<img width="1363" height="373" alt="register" src="https://github.com/user-attachments/assets/d86e4919-d0fe-4e69-a840-17caba3530c6" />
+
+
+**Figure 6 : Settings Page**
+
+<img width="1365" height="560" alt="settings" src="https://github.com/user-attachments/assets/39ab8f52-4fb9-4113-b283-8ec9f88c9b03" />
+
+
+**Figure 7 : News feed filter by Category**
+
+<img width="903" height="402" alt="newsfeed" src="https://github.com/user-attachments/assets/885838cc-a8b1-4ebd-9e1e-37286aa7c0ba" />
+
+**Figure 8 : Data Visualization Page**
+
+<img width="577" height="609" alt="datavisualize" src="https://github.com/user-attachments/assets/cff3df15-24a0-4419-84f6-9e7847905541" />
+
+
+**Figure 9 : Add task in Project Management Page**
+
+<img width="1362" height="573" alt="addtask" src="https://github.com/user-attachments/assets/f4dee8c2-b235-4789-9f39-308efd6a6117" />
+
+
+**Figure 10 : Edit Task**
+
+<img width="1365" height="582" alt="edit" src="https://github.com/user-attachments/assets/e2b368a6-4228-4871-8233-16a59cddf7d4" />
+
+
+**Figure 11 : Search Tasks by Keywords & Pagination Browsing**
+
+<img width="1362" height="404" alt="filter" src="https://github.com/user-attachments/assets/4a472aa1-6d4b-446d-b795-c710007cb086" />
+
+
+**Figure 12 : AI Chat Page**
+
+<img width="1365" height="571" alt="aichat" src="https://github.com/user-attachments/assets/3eacce0c-9df4-4a54-8269-4cd6c4cb8a5b" />
+
+
+**Figure 13 : Recipe search**
+
+<img width="735" height="588" alt="recipe" src="https://github.com/user-attachments/assets/6e52ac74-889a-433e-961c-82909e260f2f" />
+
+---
+
 ## 🧩 Key Components
 
 | Component                 | Description                                                                 |
